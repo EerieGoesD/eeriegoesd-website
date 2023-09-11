@@ -1,28 +1,28 @@
-# Eerie Goes D: A Passionate Blend of Music and Software Development
+# Eerie Goes D
 
-## Overview
+## About
 
-Welcome to the personal website of Diogo Melo, professionally known as Eerie Goes D. This website serves as a comprehensive platform to showcase two major facets of my life: my passion for music production and my burgeoning interest in software development. Divided into dedicated sections for Music and Apps, the website offers an intimate look into the creative and technical aspects of my endeavors.
+This is my personal website. I am an individual that goes by the name of Eerie Goes D, my real name is Diogo Melo. I'm keen on producing music, and on my spare time, I play video games and develop some easy applications which even though they are light at the moment, they can be handy. Due to this, I will divide my website into mainly 2 goals: Sharing my music and publishing my applications.
 
-## Technologies
+## Technologies Used
 
-As a newcomer to web development, I've embraced the challenges and opportunities presented by HTML and CSS. The aim is to craft a website that is not just functional, but also aesthetically pleasing and professional.
+Even though I'm fairly new to this, I'll try my best to use HTML and CSS to the best of my abilities and be able to build a reliable and professionally-looking website.
 
-## Features
+## Usage
 
-The website is accessible via [www.eeriegoesd.com](https://www.eeriegoesd.com). Navigate effortlessly through well-defined categories like "Music," "Apps," and "Info" to discover more about my interests, ongoing projects, and the person behind the screen. A dedicated contact section is also available for those looking to reach out.
+People can access [www.eeriegoesd.com](https://www.eeriegoesd.com) and navigate through very straight-forward links such as "Music", "Apps," and "Info," where you may get to know me. You may also contact me if you want to get in touch with me.
 
-## Contributions
+## Contributing
 
-At this stage, I'm focused on self-improvement and refining my skills. Consequently, I'm not currently accepting external contributions to this project. My intention is to evolve and define a more concrete path for my development career before opening up to collaborative opportunities.
+Contributing is currently not accepted. The reason why is because I don't feel comfortable yet and confident in my own skills to be able to contribute and provide reliable feedback to people around me. I'm yet to develop my skills and understand where I will be going with my developing "career".
 
-## Acknowledgments
+## Credits
 
-Heartfelt thanks to my supportive girlfriend, who has been an invaluable resource in both the creative and technical aspects of this project. Special mention for her assistance in website design and art for my musical projects.
+I would like to thank my girlfriend for supporting me throughout this passion project of mine and assisting me with my website creation, as well as the illustration of certain website sections and my music covers.
 
-## Contact
+## Contact Information
 
-For inquiries or further information, please use the following channels:
+Feel free to reach me at the following:
 
 - **Email**: [eeriegoesd@gmail.com](mailto:eeriegoesd@gmail.com)
 - **TikTok**: [TikTok Profile](https://www.tiktok.com/@eeriegoesd)
@@ -30,3 +30,4 @@ For inquiries or further information, please use the following channels:
 - **Instagram**: [Instagram Profile](https://www.instagram.com/eeriegoesd/)
 - **Discord**: [Discord Server](https://discord.gg/ugcxeZjNKc)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/diogo-melo-ba80a8200)
+
