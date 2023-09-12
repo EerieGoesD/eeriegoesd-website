@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: white;
+    background-image: url('images/photo_2023-09-12_02-31-00.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: blue;
+}
