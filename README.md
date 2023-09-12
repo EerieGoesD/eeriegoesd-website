@@ -1,6 +1,6 @@
 # Eerie Goes D
 
-## About
+## About This Project
 
 This is my personal website. I am an individual that goes by the name of Eerie Goes D, my real name is Diogo Melo. I'm keen on producing music, and on my spare time, I play video games and develop some easy applications which even though they are light at the moment, they can be handy. Due to this, I will divide my website into mainly 2 goals: Sharing my music and publishing my applications.
 
