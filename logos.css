@@ -1,0 +1,51 @@
+#instagram-link {
+    width: 2.2vw;
+    height: auto;
+    position: absolute;
+    left: 83vw;
+    bottom: 0.7vw;
+}
+
+#instagram-logo {
+    width: 100%;
+    height: auto;
+}
+
+#tiktok-link {
+    width: 2.2vw;
+    height: auto;
+    position: absolute;
+    left: 80vw;
+    bottom: 0.7vw;
+}
+
+#tiktok-logo {
+    width: 100%;
+    height: auto;
+}
+
+#youtube-link {
+    width: 2.2vw;
+    height: auto;
+    position: absolute;
+    left: 77vw;
+    bottom: 0.7vw;
+}
+
+#youtube-logo {
+    width: 100%;
+    height: auto;
+}
+
+#discord-link {
+    width: 2.2vw;
+    height: auto;
+    position: absolute;
+    left: 74vw;
+    bottom: 0.7vw;
+}
+
+#discord-logo {
+    width: 100%;
+    height: auto;
+}

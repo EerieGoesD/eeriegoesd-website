@@ -1,0 +1,166 @@
+@font-face {
+    font-family: "SnowySkiesItalic";
+    src: url("Snowy Skies Italic.otf") format("truetype");
+}
+
+@font-face {
+    font-family: "SnowySkies";
+    src: url("Snowy Skies.otf") format("truetype");
+}
+
+@font-face {
+    font-family: "Gladly Accept";
+    src: url("Gladly Accept.ttf") format("truetype");
+}
+
+@keyframes moveToTop {
+    0%   { transform: translate(-50%, -50%) translateY(0); }
+    100% { transform: translate(-50%, -100%) translateY(-23vh); }
+}
+
+@keyframes moveToOriginal {
+    0%   { transform: translate(-50%, -100%) translateY(-23vh); }
+    100% { transform: translate(-50%, -50%) translateY(0); }
+}
+
+.move-to-top {
+    animation: moveToTop 1s forwards;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+    text-align: center;
+}
+
+#background-video {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+
+.logo {
+    position: absolute;
+    display: block;
+    margin: 0 auto;
+    max-width: 15%;
+    left: 42%;
+    top: -5%;
+    height: auto;
+}
+
+.music-text {
+    font-family: 'SnowySkiesItalic', sans-serif, Arial;
+    position: absolute;
+    top: 33vw;
+    left: calc(22% - 1vw);
+    font-size: 10vw;
+    transform: translate(-50%, -50%) translateY(0);
+    background-color: transparent;
+    color: rgb(117, 180, 101);
+    cursor: pointer;
+    text-shadow: 0.3vw 0.3vw rgb(194, 98, 35);
+    display: inline-block;
+    -webkit-text-stroke: 0.1vw rgb(0, 0, 0);
+}
+
+.music-link:hover {
+    color: rgb(194, 98, 35);
+    transition: color 0.3s ease;
+}
+
+.apps-text {
+    font-family: 'SnowySkiesItalic', sans-serif, Arial;
+    position: absolute;
+    top: 33vw;
+    right: calc(1% - 4vw);
+    font-size: 11vw;
+    background-color: transparent;
+    transform: translate(-50%, -50%) translateY(0);
+    color: rgb(117, 180, 101);
+    cursor: pointer;
+    text-shadow: 0.3vw 0.3vw rgb(194, 98, 35);
+    display: inline-block;
+    -webkit-text-stroke: 0.1vw rgb(0, 0, 0);
+}
+
+.apps-link:hover {
+    color: rgb(194, 98, 35);
+    transition: color 0.3s ease;
+}
+
+.category {
+    font-family: 'SnowySkiesItalic', sans-serif, Arial;
+    position: absolute;
+    right: calc(1% - 1vw);
+    font-size: 2vw;
+    color: rgb(194, 98, 35);
+    padding: 10px;
+    border-radius: 1000px;
+    opacity: 0;
+    cursor: pointer;
+    visibility: hidden;
+    transition: opacity 1s, visibility 0s;
+    text-align: center;
+}
+
+.category.cli-tools {
+    font-family: "Gladly Accept", Arial, sans-serif;
+    color: rgb(161, 167, 201);
+    -webkit-text-stroke: 1.5px rgb(0, 0, 0);
+    top: 23vw;
+    right: 15vw;
+}
+
+.category.gui-tools {
+    font-family: "Gladly Accept", Arial, sans-serif;
+    color: rgb(161, 167, 201);
+    -webkit-text-stroke: 1.5px rgb(0, 0, 0);
+    top: 27vw;
+    right: 14.7vw;
+}
+
+.category.lol-apps {
+    font-family: "Gladly Accept", Arial, sans-serif;
+    color: rgb(161, 167, 201);
+    -webkit-text-stroke: 1.5px rgb(0, 0, 0);
+    top: 31vw;
+    right: 7.3vw;
+}
+
+.category.discord-bots {
+    font-family: "Gladly Accept", Arial, sans-serif;
+    color: rgb(161, 167, 201);
+    -webkit-text-stroke: 1.5px rgb(0, 0, 0);
+    top: 35vw;
+    right: 12.5vw;
+}
+
+.category.show {
+    opacity: 1;
+    visibility: visible;
+}
+
+.eerie-goes-d {
+    font-family: "SnowySkies", Arial, sans-serif;
+    font-size: 2vw;
+    position: absolute;
+    left: 86vw;
+    bottom: 1vw;
+    cursor: pointer;
+    text-shadow: 0.1vw 0.1vw rgb(117, 180, 101);
+    color: rgb(194, 98, 35);
+    -webkit-text-stroke: 0.1vw rgb(0, 0, 0);
+}
+
+.eerie-goes-d:hover {
+    color: rgb(161, 167, 201);
+    transition: color 0.3s ease;
+    cursor: pointer;
+}
